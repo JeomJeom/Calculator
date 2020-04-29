@@ -1,4 +1,5 @@
 # Calculator
+This calculator application is built on VueJs framework with JavaScript, HTML and CSS. 
 
 ## Appearence of the Application
 <img width="416" alt="Screen Shot 2020-04-30 at 2 03 09 AM" src="https://user-images.githubusercontent.com/38584966/80620414-5639c280-8a89-11ea-9593-e67d55ec08a3.png">
