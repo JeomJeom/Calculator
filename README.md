@@ -1,24 +1,7 @@
-# my-app
+# Calculator
 
-## Project setup
-```
-npm install
-```
+## Appearence of the Application
+![Uploading Screen Shot 2020-04-30 at 2.03.09 AM.png…]()
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Updates of the Application
+Updates will be pushed once the advance or added on functions are applied. 
